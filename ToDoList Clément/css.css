@@ -1,0 +1,17 @@
+body {
+   font-family: 'Open Sans', sans-serif;
+   background-color: #fead52;
+   text-align: center;
+}
+
+h1{
+	font-weight: bold;
+	color: white;
+}
+
+.container {
+  display: block;
+  background-color: RGBA(255, 255, 255, 0.30);
+  margin: 30px auto 0;
+  width: 500px;
+}
